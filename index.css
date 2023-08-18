@@ -1,0 +1,12 @@
+
+.parent{
+    display: grid;
+    grid-template-columns: 20em auto;
+}
+.profile{
+    display: grid;
+    grid-template-columns: 12em auto;
+}
+.ProfilePhoto{
+width: 10em;
+}
